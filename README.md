@@ -10,7 +10,9 @@ Penglai contains a set of different systems:
 
 - **KRCore**: the kernel-mode RDMA communication library on which our systems depend on.
 
-- **Mitosis-Core**: the core repo which provides the "Remote Fork" system primitive. 
+- **Mitosis-Core**: the core repo which provides the "Remote Fork" system primitive.
+
+The repos will be ready soon (Around 2022/11/20).
 
 ## Features
 
