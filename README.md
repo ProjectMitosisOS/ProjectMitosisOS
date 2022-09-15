@@ -1,6 +1,6 @@
 <img src="docs/image/logo.png" width="500">
 
-Project Mitosis OS is a set of systems based on a new operating system primitive - "Remote Fork".
+MITOSIS is an OS support for fast remote fork---forking a container from one machine to another. 
 
 This repo contains an overview of the whole project.
 
@@ -8,11 +8,9 @@ This repo contains an overview of the whole project.
 
 Project Mitosis OS contains a set of different systems:
 
-- **KRCore**: the kernel-mode RDMA communication library on which our systems depend on.
+- **Mitosis-Core**: core source code that implements the MITOSIS functionalities.
 
-- **Mitosis-Core**: the core repo which provides the "Remote Fork" system primitive.
-
-The repos will be ready soon (Around 2022/11/20).
+We will release the v0.0 on **11/20**. 
 
 ## Features
 
