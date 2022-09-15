@@ -6,7 +6,7 @@ This repo contains an overview of the whole project.
 
 ## Systems
 
-Penglai contains a set of different systems:
+Project Mitosis OS contains a set of different systems:
 
 - **KRCore**: the kernel-mode RDMA communication library on which our systems depend on.
 
