@@ -25,7 +25,3 @@ TODO
 ## License Details
 
 TODO
-
-## Collaborators
-
-We thank all of our collaborators (companies, organizations, and communities).
