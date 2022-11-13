@@ -8,9 +8,7 @@ This repo contains an overview of the whole project.
 
 Project Mitosis OS contains a set of different systems:
 
-- **Mitosis-Core**: core source code that implements the MITOSIS functionalities.
-
-We will release the v0.0 on **11/20**. 
+- [**Mitosis-Core**](https://github.com/ProjectMitosisOS/mitosis-core): core source code that implements the MITOSIS functionalities.
 
 ## Features
 
@@ -20,8 +18,8 @@ We have integrated it into a serverless system, and we hope to integrate it to m
 
 ## Quick Start
 
-TODO
+Please refer to the [README](https://github.com/ProjectMitosisOS/mitosis-core#readme) in the [Mitosis-Core](https://github.com/ProjectMitosisOS/mitosis-core).
 
 ## License Details
 
-TODO
+MIT License
